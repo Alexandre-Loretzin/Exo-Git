@@ -282,12 +282,10 @@ p {
     border-right: 10px solid rgb(255, 72, 0);
     min-height: 250px;
     padding: 10px;
-<<<<<<< HEAD
+
     margin-top:10px;
     margin-bottom: 10px;
-=======
-    margin: 10px; 
->>>>>>> 1c88eedb5ce99231890a0bcb9beb9e43aa27519b
+
 }
 
 /* ############### */
@@ -576,6 +574,40 @@ p {
     width: 100px;
 
 }
+
 /* ############## */
 /* FIN DE CODE HAMZA */
 /* ############## */
+
+
+/* ################ */
+/* DEBUT CODE ESTHER */
+/* ################ */
+
+.cardEsther{
+    width: 350px;
+    background-color: rgb(188, 238, 108);
+    border: 1px dotted rgb(6, 58, 36);
+    box-shadow: 1px 3px 3px rgb(37, 196, 58);
+    border-top: 10px solid rgb(6, 141, 119);
+    padding: 10px;
+    margin: 10px;
+    text-shadow: 1px 2px 12px rgb(41, 40, 40);
+    color: rgb(4, 51, 28);
+     line-height: 1.4em;
+    font-size: 1.2em;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    max-height:250px;
+}
+
+.cardEsther h1{
+    padding-right:100px;
+}
+
+
+/* ################ */
+/* FIN CODE ESTHER */
+/* ################ */
+
